@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi 👋 I'm Shamli Mary
 
-<!--
-**shamresh126-oss/shamresh126-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+🎓 B.Tech in Artificial Intelligence and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Artificial Intelligence, Data Science, Generative AI, and Full-Stack Development.
+
+🌱 Currently learning Python, Machine Learning, Deep Learning, Data Science, and Web Development.
+
+📫 Email: shamresh126@gmail.com
+
+---
+
+## 🚀 Skills
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- MySQL
+- Android Studio
+- Eclipse
+- VS Code
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Science
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Full-Stack Development
+
+---
+
+## 📌 Career Interests
+
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Generative AI
+- Software Development
+- Full-Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamresh126-oss&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shamresh126-oss&theme=tokyonight)
+
+---
+
+## 🌐 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamresh126-oss&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shamresh126-oss&color=blue)
+
+---
+
+## 🔗 Connect With Me
+
+GitHub: https://github.com/shamresh126-oss
+
+LinkedIn: Add your LinkedIn profile link here.
+
+---
+
+⭐ Thank you for visiting my profile!
