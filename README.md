@@ -85,8 +85,7 @@
 
 GitHub: https://github.com/shamresh126-oss
 
-LinkedIn: Add your LinkedIn profile link here.
-
+LinkedIn: https://www.linkedin.com/in/shamli-mary-221ba9319
 ---
 
 ⭐ Thank you for visiting my profile!
